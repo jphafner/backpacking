@@ -42,6 +42,7 @@
 -[ ] 1x Aqua Mira (Full)
 -[ ] 1x Aqua Mira (partial)
 -[ ] 1x Platypus 1 liter bladder
+-[ ] Misc Nalgene bottles
 
 ## Baggies
 -[ ] Gold Bond
@@ -119,6 +120,10 @@
 -[ ] 1x compass
 -[ ] 2x athletic tape
 -[ ] 1x magnesium stick
+
+## Knifes
+-[ ] 1x leatherman small scissor
+-[ ] 1x bushcraft folding knife
 
 
 ## Wood
